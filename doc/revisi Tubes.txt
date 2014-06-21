@@ -1,0 +1,5 @@
+Berikut disampaikan beberapa perubahan dan penambahan spek pada tubes 1 Stima:
+1.	Peti merah yang awalnya meledak dalam 2 satuan waktu diubah menjadi 1 satuan waktu.
+2.	Format file input disamakan, mengikuti contoh yang dapat diunduh pada link di bawah.
+3.	Di file input akan ada keterangan random atau given, ketika tertulis random, maka informasi yang diberikan hanya jumlah setiap peti, posisi awal pemain dan letak setiap peti dibangkitkan secara random, sedangkan ketika tertulis given, posisi awal pemain dan letak setiap peti sudah ditentukan. Untuk lebih jelasnya dapat diliihat pada contoh.
+4.	Setiap selesai permainan pada mode 1 (mode komputer/simulasi), dihasilkan file eksternal dengan format seperti contoh.

@@ -1,0 +1,23 @@
+﻿Build started 24/02/2014 18:25:24.
+     1>Project "C:\Users\Michael\Dropbox\IF\IF2211 Strategi Algoritma\StrAlgo1-12038\src\stima1\stima1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael\Dropbox\IF\IF2211 Strategi Algoritma\StrAlgo1-12038\src\Debug\stima1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML\SFML-2.1\Libs\Debug" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\stima1.aiController.resources /ASSEMBLYRESOURCE:Debug\stima1.AlgoInfo.resources /ASSEMBLYRESOURCE:Debug\stima1.mainform.resources /ASSEMBLYRESOURCE:Debug\stima1.playerVsPc.resources /ASSEMBLYRESOURCE:Debug\stima1.toolbox.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Michael\Dropbox\IF\IF2211 Strategi Algoritma\StrAlgo1-12038\src\Debug\stima1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\aiController.obj
+         Debug\AlgoInfo.obj
+         Debug\Buy.obj
+         Debug\MAGI.obj
+         Debug\playerVsPc.obj
+         Debug\Rogue.obj
+         Debug\SYLPH.obj
+         Debug\Graf.obj
+         Debug\holder.obj
+         Debug\Main.obj
+         Debug\mainform.obj
+         Debug\Player.obj
+         Debug\toolbox.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         stima1.vcxproj -> C:\Users\Michael\Dropbox\IF\IF2211 Strategi Algoritma\StrAlgo1-12038\src\Debug\stima1.exe
+     1>Done Building Project "C:\Users\Michael\Dropbox\IF\IF2211 Strategi Algoritma\StrAlgo1-12038\src\stima1\stima1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.90

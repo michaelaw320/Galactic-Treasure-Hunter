@@ -1,0 +1,1 @@
+rand.cpp bisa diedit dan dicompile untuk membantu pembuatan galaksi-galaksi besar.
