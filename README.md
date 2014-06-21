@@ -2,6 +2,7 @@ Galactic-Treasure-Hunter
 ========================
 
 Turn-based treasure hunting game for Windows
+Implementation of Greedy Algorithm for the AI Player
 
 ========================
 
